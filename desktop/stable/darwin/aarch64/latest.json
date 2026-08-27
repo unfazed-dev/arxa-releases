@@ -1,0 +1,11 @@
+{
+  "version": "0.1.0",
+  "notes": "Arxa Studio 0.1.0 (stable)",
+  "pub_date": "2026-08-27T08:57:30.689Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRa1FhdEdocktFUDcyaHFwWnZkL09IRXRrNWR0VmM5UzJzTzFQWDZhM253ekllRGJZTVRieGVhNytIZE9aZTQzQkY3dW1qZE1xNGNqZ1B0MUtXdU1tOHVhMys1cXRwc1FZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3ODIxMDUwCWZpbGU6QXJ4YSBTdHVkaW8uYXBwLnRhci5negpFdTVJc1d6ZDJ3N1dJR1d0ZHdaNXVNalI1UXc3UHBkUnVLYzF0V1hVMXZ5TGdzKzhRUlJlbFBZSThGY3FFRjhlK1hSMHZrMnNqRmE2MHJnT0Q0dzRDZz09Cg==",
+      "url": "https://github.com/unfazed-dev/arxa-releases/releases/download/studio-v0.1.0/Arxa-Studio-0.1.0-aarch64-apple-darwin.app.tar.gz"
+    }
+  }
+}
